@@ -1,0 +1,10 @@
+{
+  "name": "tictactoe",
+  "scripts": {
+    "dev": "tsc --project ./tsconfig.json --watch",
+    "build": "tsc --project ./tsconfig.json"
+  },
+  "dependencies": {
+    "typescript": "^3.8.3"
+  }
+}

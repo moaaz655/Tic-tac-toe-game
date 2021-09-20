@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    background-color: #222222;
+    color: #ffffff;
+}
+
+#main {
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform-origin: top left;
+    image-rendering: pixelated;
+}
